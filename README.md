@@ -1,8 +1,6 @@
 # The World in One Picture — 18 November 2026
 
-This dense newspaper front page is dated “Wednesday 18 November 2026” and brings together 21 verified stories from around the world. The lead coverage follows President Trump’s arrival in Shenzhen for talks with Xi Jinping, a planned trilateral with Vladimir Putin, the US strike on Iran’s Qeshm Island and Iranian drone attacks in the Gulf, and a second-day strike on the Kerch Bridge. Other stories include the Ebola surge in DR Congo, Democrats’ 56-seat Senate majority after Mary Peltola’s Alaska win, Category 5 Cyclone Xavier, a new Quad plan, Gaza’s winter cold, Israel’s government formation, earthquakes in Papua New Guinea and Romania, and outages reaching the NSA. A world map and additional briefs complete the page.
-
-The program copies `entry.png` to `/output/entry.png` (or to the directory set in `MAKEFUN_OUTPUT_DIR`).
+This dense newspaper front page presents 21 verified world-news stories from Wednesday 18 November 2026: Trump lands in Shenzhen and Xi greets him on the tarmac, with a trilateral meeting with Putin set for Thursday; the US strikes Qeshm Island as Iran fires drones at Bahrain and Kuwait; the Kerch Bridge is hit for a second day; Ebola cases more than double in DR Congo; Democrats reach 56 Senate seats; and Category 5 Cyclone Xavier hits the Cook Islands. The image also notes the Quad's new plan in Manila, cold deaths in Gaza's tents, and earthquakes in Papua New Guinea and Romania.
 
 [![make.fun bounty](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
 [![make.fun rank](https://make.fun/badge/news-image-20261118/godanaaa/news-image-20261118-entry/rank.svg)](https://make.fun/bounty/news-image-20261118)
